@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve Gölpınar</h1>
 <h3 align="center">A passionate Jr. Frontend Developer from İstanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **JavaScrip,React and Flutter.**
+- 🌱 I’m currently learning **JavaScript,React and Flutter.**
 
 - 💬 You can talk to me about **HTML,CSS,JavaScript,React and Flutter.**
 
